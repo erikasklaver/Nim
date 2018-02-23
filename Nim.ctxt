@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=canvas
+comment0.target=Nim(objectdraw.DrawingCanvas)
+comment1.params=point
+comment1.target=void\ executeRound(objectdraw.Location)
+comment2.params=point
+comment2.target=boolean\ contains(objectdraw.Location)
+numComments=3
